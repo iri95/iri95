@@ -1,16 +1,16 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D0A2F7,100:E5D4FF&height=200&section=header&text=Lee%20Sanghun&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D0A2F7,100:E5D4FF&height=200&section=header&text=Lee%20Sanghun%20😌&fontSize=50)
 
-## GitHub Analytics
+## 🔎 GitHub Analytics
 [![Github stats](https://github-readme-stats.vercel.app/api?username=iri95&show_icons=true&theme=aura)](https://github.com/iri95/) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iri95&layout=compact&theme=aura&hide=CSS,html)](https://github.com/iri95/)  
 
-## Baekjoon
+## 💡 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lnwst21)](https://solved.ac/profile/lnwst21)
 
 
-## Skils
+## 💻 Skils
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)  
 
@@ -27,10 +27,14 @@
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 
-## Tools
+## 🛠 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
+![mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=mattermost&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?&style=flat&logo=intellijidea&logoColor=white)
+![eclipseide](https://img.shields.io/badge/Eclipse-2C2255?&style=flat&logo=eclipseide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)  
 
 </div>
