@@ -2,7 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D0A2F7,100:E5D4FF&height=200&section=header&text=Lee%20Sanghun%20😌&fontSize=50)
 
-## 🔎 GitHub Analytics
+
+## 🔎 GitHub Analytics [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firi95%2Fhit-counter&count_bg=%23ADAEAD&title_bg=%238753DB&icon=github.svg&icon_color=%23E7E7E7&title=LSH&edge_flat=false)](https://hits.seeyoufarm.com) 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=iri95&show_icons=true&theme=aura)](https://github.com/iri95/) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iri95&layout=compact&theme=aura&hide=CSS,html)](https://github.com/iri95/)  
 
