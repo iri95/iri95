@@ -33,6 +33,4 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?&style=flat&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)  
 
-![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:A084CA,100:BFACE0&height=100&section=header&text=Thank%20you&fontSize=50)
-
 </div>
