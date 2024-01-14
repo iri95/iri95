@@ -4,7 +4,7 @@
 
 ## GitHub Analytics
 [![Github stats](https://github-readme-stats.vercel.app/api?username=iri95&show_icons=true&theme=aura)](https://github.com/iri95/) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iri95&layout=compact&theme=aura)](https://github.com/iri95/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iri95&layout=compact&theme=aura&hide=CSS,html)](https://github.com/iri95/)  
 
 ## Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lnwst21)](https://solved.ac/profile/lnwst21)
